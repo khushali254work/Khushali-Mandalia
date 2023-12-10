@@ -1,0 +1,18 @@
+/* Text Styling */
+.h2 {text-decoration-color: rgb(50, 69, 53); } 
+body {color:rgb(50, 61, 50);font-family: Georgia, 'Times New Roman', Times, serif }
+a {color: rgb(20, 33, 18)}
+ul.a { list-style-type: circle; }
+/* mouse over link */ a:hover {color: rgb(255, 0, 0);}
+
+/* Table Styling */
+.table {background-color: rgb(50, 69, 53);}
+.columnwidth {width: 25%;}
+
+/* Image Styling */
+.ImgThumnail {
+   width: 300px;
+   padding: 10px 20px;
+   border-radius: 1px;}
+.ImgThumbnail:hover {opacity: 30%;}
+
